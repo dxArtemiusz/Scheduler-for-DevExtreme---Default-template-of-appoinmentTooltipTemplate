@@ -1,0 +1,1 @@
+# Scheduler-for-DevExtreme---Default-template-of-appoinmentTooltipTemplate
